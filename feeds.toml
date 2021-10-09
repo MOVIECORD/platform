@@ -1,0 +1,8 @@
+[kinolights_rank]
+title = "키노라이츠 ─ 통합차트"
+url = "https://m.kinolights.com/ranking/kino"
+entrySelector = "ul.chart-list-container li"
+titleSelector = "span.title-text"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
