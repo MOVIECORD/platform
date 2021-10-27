@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-26T17:41:02.983Z</updated>
+    <updated>2021-10-27T05:34:54.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[듄 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/78911</id>
-        <link href="https://m.kinolights.com/title/78911"/>
-        <updated>2021-10-20T17:41:07.588Z</updated>
-        <content type="html"><![CDATA[<a data-v-5aac9ac0="" href="/title/78911"><span data-v-5aac9ac0="" class="left-content-wrap"><span data-v-5aac9ac0="" class="poster-img"><img data-v-5aac9ac0="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_78911_1629854824.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_78911_1629854824.jpg" lazy="loaded"></span><span data-v-5aac9ac0="" class="featured-ico"><i data-v-5aac9ac0="" class="kino-icon kino-icon--featured"></i></span><span data-v-5aac9ac0="" class="title-text">듄</span></span><!----></a>]]></content>
+        <title type="html"><![CDATA[어나더 레코드 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/99179</id>
+        <link href="https://m.kinolights.com/title/99179"/>
+        <updated>2021-10-27T05:34:53.699Z</updated>
+        <content type="html"><![CDATA[<a data-v-5aac9ac0="" href="/title/99179"><span data-v-5aac9ac0="" class="left-content-wrap"><span data-v-5aac9ac0="" class="poster-img"><img data-v-5aac9ac0="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_99179_1633483422.png" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_99179_1633483422.png" lazy="loaded"></span><span data-v-5aac9ac0="" class="featured-ico"><i data-v-5aac9ac0="" class="kino-icon kino-icon--featured"></i></span><span data-v-5aac9ac0="" class="title-text">어나더 레코드</span></span><span data-v-5aac9ac0="" class="right-content-wrap"><span data-v-5aac9ac0="" class="featured-logo-ico"><i data-v-5aac9ac0="" class="kino-icon kino-icon--seezn-featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지리산 (키노라이츠 ─ 통합차트)]]></title>
