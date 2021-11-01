@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2021-10-31T17:40:03.509Z</updated>
+    <updated>2021-11-01T05:35:32.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[어나더 레코드]]></title>
-        <id>https://m.kinolights.com/title/99179</id>
-        <link href="https://m.kinolights.com/title/99179"/>
-        <updated>2021-10-27T05:34:53.699Z</updated>
-        <content type="html"><![CDATA[<a data-v-3f0d2030="" target="_self" rel="noopener" href="/title/99179"><span data-v-3f0d2030="" class="left-content-wrap"><span data-v-3f0d2030="" class="poster-img"><img data-v-3f0d2030="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_99179_1633483422.png" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_99179_1633483422.png" lazy="loaded"></span><span data-v-3f0d2030="" class="featured-ico"><i data-v-3f0d2030="" class="kino-icon kino-icon--sponsored"></i></span><span data-v-3f0d2030="" class="title-text">어나더 레코드</span></span><span data-v-3f0d2030="" class="right-content-wrap"><span data-v-3f0d2030="" class="featured-logo-ico"><i data-v-3f0d2030="" class="kino-icon kino-icon--seezn-featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[지리산]]></title>
+        <id>https://m.tving.com/app/theme.tving?pocCode=POCD0600&amp;themeSeq=109783&amp;utm_source=kinolights&amp;utm_medium=banner&amp;utm_campaign=kconfesta&amp;utm_content=featured_non&amp;utm_term=jirisan_lp</id>
+        <link href="https://m.tving.com/app/theme.tving?pocCode=POCD0600&amp;themeSeq=109783&amp;utm_source=kinolights&amp;utm_medium=banner&amp;utm_campaign=kconfesta&amp;utm_content=featured_non&amp;utm_term=jirisan_lp"/>
+        <updated>2021-11-01T05:35:31.271Z</updated>
+        <content type="html"><![CDATA[<a data-v-3f0d2030="" target="_blank" rel="noopener" href="https://m.tving.com/app/theme.tving?pocCode=POCD0600&amp;themeSeq=109783&amp;utm_source=kinolights&amp;utm_medium=banner&amp;utm_campaign=kconfesta&amp;utm_content=featured_non&amp;utm_term=jirisan_lp"><span data-v-3f0d2030="" class="left-content-wrap"><span data-v-3f0d2030="" class="poster-img"><img data-v-3f0d2030="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_97828_1634994348.jfif" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_97828_1634994348.jfif" lazy="loaded"></span><span data-v-3f0d2030="" class="featured-ico"><i data-v-3f0d2030="" class="kino-icon kino-icon--sponsored"></i></span><span data-v-3f0d2030="" class="title-text">지리산</span></span><span data-v-3f0d2030="" class="right-content-wrap"><span data-v-3f0d2030="" class="featured-logo-ico"><i data-v-3f0d2030="" class="kino-icon kino-icon--tving-featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원 더 우먼]]></title>
