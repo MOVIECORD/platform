@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2021-11-16T17:38:06.782Z</updated>
+    <updated>2021-11-17T05:34:57.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[샹치와 텐 링즈의 전설]]></title>
-        <id>https://m.kinolights.com/title/94985</id>
-        <link href="https://m.kinolights.com/title/94985"/>
-        <updated>2021-11-02T17:41:57.306Z</updated>
-        <content type="html"><![CDATA[<a data-v-09c70590="" target="_self" rel="noopener" href="/title/94985"><span data-v-09c70590="" class="left-content-wrap"><span data-v-09c70590="" class="poster-img"><img data-v-09c70590="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_94985_1628740262.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_94985_1628740262.jpg" lazy="loaded"></span><span data-v-09c70590="" class="featured-ico"><i data-v-09c70590="" class="kino-icon kino-icon--featured"></i></span><span data-v-09c70590="" class="title-text">샹치와 텐 링즈의 전설</span></span><span data-v-09c70590="" class="right-content-wrap"><span data-v-09c70590="" class="featured-logo-ico"><i data-v-09c70590="" class="kino-icon kino-icon--disney-featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[완다비전]]></title>
+        <id>https://m.kinolights.com/title/85203</id>
+        <link href="https://m.kinolights.com/title/85203"/>
+        <updated>2021-11-12T17:42:21.649Z</updated>
+        <content type="html"><![CDATA[<a data-v-09c70590="" target="_self" rel="noopener" href="/title/85203"><span data-v-09c70590="" class="left-content-wrap"><span data-v-09c70590="" class="poster-img"><img data-v-09c70590="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_85203_1636334805.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_85203_1636334805.jpg" lazy="loaded"></span><span data-v-09c70590="" class="featured-ico"><i data-v-09c70590="" class="kino-icon kino-icon--featured"></i></span><span data-v-09c70590="" class="title-text">완다비전</span></span><span data-v-09c70590="" class="right-content-wrap"><span data-v-09c70590="" class="featured-logo-ico"><i data-v-09c70590="" class="kino-icon kino-icon--disney-featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[술꾼도시여자들]]></title>
