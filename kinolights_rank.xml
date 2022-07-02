@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2022-07-02T11:18:33.629Z</updated>
+    <updated>2022-07-02T12:38:01.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[기묘한 이야기 시즌 4 파트 2]]></title>
-        <id>https://m.kinolights.com/title/106492</id>
-        <link href="https://m.kinolights.com/title/106492"/>
-        <updated>2022-07-02T08:27:53.250Z</updated>
-        <content type="html"><![CDATA[<a data-v-7d2da874="" href="/title/106492" target="_self" rel="noopener"><span data-v-7d2da874="" class="left-content-wrap"><span data-v-7d2da874="" class="featured-logo-ico"><i data-v-7d2da874="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-7d2da874="" class="title-text">기묘한 이야기 시즌 4 파트 2</span></span><span data-v-7d2da874="" class="right-content-wrap"><span data-v-7d2da874="" class="featured-ico"><i data-v-7d2da874="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[종이의 집: 공동경제구역]]></title>
+        <id>https://m.kinolights.com/title/88684</id>
+        <link href="https://m.kinolights.com/title/88684"/>
+        <updated>2022-06-25T08:27:42.422Z</updated>
+        <content type="html"><![CDATA[<a data-v-7d2da874="" href="/title/88684" target="_self" rel="noopener"><span data-v-7d2da874="" class="left-content-wrap"><span data-v-7d2da874="" class="featured-logo-ico"><i data-v-7d2da874="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-7d2da874="" class="title-text">종이의 집: 공동경제구역</span></span><span data-v-7d2da874="" class="right-content-wrap"><span data-v-7d2da874="" class="featured-ico"><i data-v-7d2da874="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이상한 변호사 우영우]]></title>
