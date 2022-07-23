@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-23T02:22:16.950Z</updated>
+    <updated>2022-07-23T04:38:41.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[블랙의 신부 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/102742</id>
-        <link href="https://m.kinolights.com/title/102742"/>
-        <updated>2022-07-17T08:26:43.795Z</updated>
-        <content type="html"><![CDATA[<a data-v-359c2cf8="" href="/title/102742" target="_self" rel="noopener"><span data-v-359c2cf8="" class="left-content-wrap"><span data-v-359c2cf8="" class="featured-logo-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-359c2cf8="" class="title-text">블랙의 신부</span></span><span data-v-359c2cf8="" class="right-content-wrap"><span data-v-359c2cf8="" class="featured-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[그레이 맨 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/105302</id>
+        <link href="https://m.kinolights.com/title/105302"/>
+        <updated>2022-07-23T04:38:40.508Z</updated>
+        <content type="html"><![CDATA[<a data-v-359c2cf8="" href="/title/105302" target="_self" rel="noopener"><span data-v-359c2cf8="" class="left-content-wrap"><span data-v-359c2cf8="" class="featured-logo-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-359c2cf8="" class="title-text">그레이 맨</span></span><span data-v-359c2cf8="" class="right-content-wrap"><span data-v-359c2cf8="" class="featured-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이상한 변호사 우영우 (키노라이츠 ─ 통합차트)]]></title>
