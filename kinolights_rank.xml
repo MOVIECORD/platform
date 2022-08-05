@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2022-08-05T20:25:37.909Z</updated>
+    <updated>2022-08-05T21:20:44.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[그레이 맨]]></title>
-        <id>https://m.kinolights.com/title/105302</id>
-        <link href="https://m.kinolights.com/title/105302"/>
-        <updated>2022-07-23T06:29:20.976Z</updated>
-        <content type="html"><![CDATA[<a data-v-359c2cf8="" href="/title/105302" target="_self" rel="noopener"><span data-v-359c2cf8="" class="left-content-wrap"><span data-v-359c2cf8="" class="featured-logo-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-359c2cf8="" class="title-text">그레이 맨</span></span><span data-v-359c2cf8="" class="right-content-wrap"><span data-v-359c2cf8="" class="featured-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[카터]]></title>
+        <id>https://m.kinolights.com/title/94669</id>
+        <link href="https://m.kinolights.com/title/94669"/>
+        <updated>2022-08-05T21:20:43.619Z</updated>
+        <content type="html"><![CDATA[<a data-v-359c2cf8="" href="/title/94669" target="_self" rel="noopener"><span data-v-359c2cf8="" class="left-content-wrap"><span data-v-359c2cf8="" class="featured-logo-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-359c2cf8="" class="title-text">카터</span></span><span data-v-359c2cf8="" class="right-content-wrap"><span data-v-359c2cf8="" class="featured-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이상한 변호사 우영우]]></title>
