@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2022-08-19T23:23:21.661Z</updated>
+    <updated>2022-08-20T02:24:23.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[모범가족]]></title>
-        <id>https://m.kinolights.com/title/102743</id>
-        <link href="https://m.kinolights.com/title/102743"/>
-        <updated>2022-08-18T07:22:29.815Z</updated>
-        <content type="html"><![CDATA[<a data-v-359c2cf8="" href="/title/102743" target="_self" rel="noopener"><span data-v-359c2cf8="" class="left-content-wrap"><span data-v-359c2cf8="" class="featured-logo-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-359c2cf8="" class="title-text">모범가족</span></span><span data-v-359c2cf8="" class="right-content-wrap"><span data-v-359c2cf8="" class="featured-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[스파이더맨: 노 웨이 홈]]></title>
+        <id>https://m.kinolights.com/title/94665</id>
+        <link href="https://m.kinolights.com/title/94665"/>
+        <updated>2022-08-18T08:29:16.834Z</updated>
+        <content type="html"><![CDATA[<a data-v-359c2cf8="" href="/title/94665" target="_self" rel="noopener"><span data-v-359c2cf8="" class="left-content-wrap"><span data-v-359c2cf8="" class="featured-logo-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-359c2cf8="" class="title-text">스파이더맨: 노 웨이 홈</span></span><span data-v-359c2cf8="" class="right-content-wrap"><span data-v-359c2cf8="" class="featured-ico"><i data-v-359c2cf8="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탑건: 매버릭]]></title>
