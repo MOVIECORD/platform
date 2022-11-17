@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-17T07:21:00.337Z</updated>
+    <updated>2022-11-17T08:31:49.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[영화 6천원에 예매하는 방법 (키노라이츠 ─ 통합차트)]]></title>
@@ -12,27 +12,11 @@
         <content type="html"><![CDATA[<a data-v-15d4529a="" href="https://ui.vpay.co.kr/s/JxQb/202?cmpid=pbmovie-kinolights_App_paybooc_typeA_221111" target="_blank" rel="noopener"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="featured-logo-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--bccard" style="width: 20px; height: 20px;"></i></span><span data-v-15d4529a="" class="title-text"><span data-v-15d4529a="">영화 <b style="color: rgb(240, 62, 62);">6천원에 예매</b>하는 방법</span></span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="featured-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커튼콜 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/115505</id>
-        <link href="https://m.kinolights.com/title/115505"/>
-        <updated>2022-11-16T17:25:03.815Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/115505"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115505_1666285782.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115505_1666285782.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-15d4529a="" class="title-text">커튼콜</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">12
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[연예인 매니저로 살아남기 (키노라이츠 ─ 통합차트)]]></title>
         <id>https://m.kinolights.com/title/115503</id>
         <link href="https://m.kinolights.com/title/115503"/>
         <updated>2022-11-16T17:25:03.815Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/115503"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115503_1665763390.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115503_1665763390.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number2"></i></span><span data-v-15d4529a="" class="title-text">연예인 매니저로 살아남기</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">1
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소방서 옆 경찰서 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/115504</id>
-        <link href="https://m.kinolights.com/title/115504"/>
-        <updated>2022-11-16T17:25:03.815Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/115504"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115504_1667878012.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115504_1667878012.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number3"></i></span><span data-v-15d4529a="" class="title-text">소방서 옆 경찰서</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">2
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/115503"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115503_1665763390.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115503_1665763390.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-15d4529a="" class="title-text">연예인 매니저로 살아남기</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">1
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -40,7 +24,23 @@
         <id>https://m.kinolights.com/title/114511</id>
         <link href="https://m.kinolights.com/title/114511"/>
         <updated>2022-11-16T17:25:03.816Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/114511"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_114511_1665336264.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_114511_1665336264.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number4"></i></span><span data-v-15d4529a="" class="title-text">슈룹</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">2
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/114511"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_114511_1665336264.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_114511_1665336264.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number2"></i></span><span data-v-15d4529a="" class="title-text">슈룹</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">2
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸값 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/104951</id>
+        <link href="https://m.kinolights.com/title/104951"/>
+        <updated>2022-11-16T17:25:03.824Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/104951"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_104951_1662428884.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_104951_1662428884.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number3"></i></span><span data-v-15d4529a="" class="title-text">몸값</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">5
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커튼콜 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/115505</id>
+        <link href="https://m.kinolights.com/title/115505"/>
+        <updated>2022-11-16T17:25:03.815Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/115505"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115505_1666285782.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115505_1666285782.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number4"></i></span><span data-v-15d4529a="" class="title-text">커튼콜</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">3
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -52,51 +52,19 @@
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연애 빠진 로맨스 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/87168</id>
-        <link href="https://m.kinolights.com/title/87168"/>
-        <updated>2022-11-16T17:25:03.817Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/87168"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_87168_1636335000.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_87168_1636335000.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number6"></i></span><span data-v-15d4529a="" class="title-text">연애 빠진 로맨스</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">2
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[천원짜리 변호사 (키노라이츠 ─ 통합차트)]]></title>
         <id>https://m.kinolights.com/title/113829</id>
         <link href="https://m.kinolights.com/title/113829"/>
         <updated>2022-11-16T17:25:03.821Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/113829"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_113829_1663058248.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_113829_1663058248.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number7"></i></span><span data-v-15d4529a="" class="title-text">천원짜리 변호사</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">1
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/113829"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_113829_1663058248.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_113829_1663058248.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number6"></i></span><span data-v-15d4529a="" class="title-text">천원짜리 변호사</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">1
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[몸값 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/104951</id>
-        <link href="https://m.kinolights.com/title/104951"/>
-        <updated>2022-11-16T17:25:03.824Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/104951"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_104951_1662428884.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_104951_1662428884.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-15d4529a="" class="title-text">몸값</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">2
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공조2: 인터내셔날 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/90599</id>
-        <link href="https://m.kinolights.com/title/90599"/>
-        <updated>2022-11-16T17:25:03.825Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/90599"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_90599_1661310081.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_90599_1661310081.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number9"></i></span><span data-v-15d4529a="" class="title-text">공조2: 인터내셔날</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">8
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치얼업 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/115013</id>
-        <link href="https://m.kinolights.com/title/115013"/>
-        <updated>2022-11-16T17:25:03.827Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/115013"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115013_1665414030.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115013_1665414030.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-15d4529a="" class="title-text">치얼업</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">18
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공조 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/3709</id>
-        <link href="https://m.kinolights.com/title/3709"/>
-        <updated>2022-11-16T17:25:03.828Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/3709"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_3709_1579661215.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_3709_1579661215.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number11"></i></span><span data-v-15d4529a="" class="title-text">공조</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">1
+        <title type="html"><![CDATA[동감 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/104953</id>
+        <link href="https://m.kinolights.com/title/104953"/>
+        <updated>2022-11-17T08:31:48.842Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/104953"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104953_1668581160.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104953_1668581160.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number7"></i></span><span data-v-15d4529a="" class="title-text">동감</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">41
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -104,39 +72,29 @@
         <id>https://m.kinolights.com/title/95890</id>
         <link href="https://m.kinolights.com/title/95890"/>
         <updated>2022-11-16T17:25:03.833Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/95890"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_95890_1655076825.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_95890_1655076825.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number12"></i></span><span data-v-15d4529a="" class="title-text">외계+인 1부</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">3
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/95890"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_95890_1655076825.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_95890_1655076825.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-15d4529a="" class="title-text">외계+인 1부</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">4
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마녀(魔女) Part2. The Other One (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/87793</id>
-        <link href="https://m.kinolights.com/title/87793"/>
-        <updated>2022-11-16T17:25:03.834Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/87793"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_87793_1651545272.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_87793_1651545272.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-15d4529a="" class="title-text">마녀(魔女) Part2. The Other One</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">11
-              </span></span></a>]]></content>
+        <title type="html"><![CDATA[데시벨 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/99819</id>
+        <link href="https://m.kinolights.com/title/99819"/>
+        <updated>2022-11-17T08:31:48.845Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/99819"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_99819_1667442416.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_99819_1667442416.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number9"></i></span><span data-v-15d4529a="" class="title-text">데시벨</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="new"><span data-v-15d4529a="">NEW</span></span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금수저 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/110231</id>
-        <link href="https://m.kinolights.com/title/110231"/>
-        <updated>2022-11-16T17:25:03.835Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/110231"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_110231_1662917116.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-15d4529a="" class="title-text">금수저</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">2
-              </span></span></a>]]></content>
+        <title type="html"><![CDATA[블랙 아담 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/84626</id>
+        <link href="https://m.kinolights.com/title/84626"/>
+        <updated>2022-11-17T08:31:48.845Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/84626"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_84626_1663119889.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_84626_1663119889.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-15d4529a="" class="title-text">블랙 아담</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="new"><span data-v-15d4529a="">NEW</span></span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에브리씽 에브리웨어 올 앳 원스 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/104353</id>
-        <link href="https://m.kinolights.com/title/104353"/>
-        <updated>2022-11-16T17:25:03.836Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/104353"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104353_1662429957.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number15"></i></span><span data-v-15d4529a="" class="title-text">에브리씽 에브리웨어 올 앳 원스</span></span><span data-v-15d4529a="" class="right-content-wrap"><!----><span data-v-15d4529a="" class="rank-change-num hyphen">-
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸값 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/2553</id>
-        <link href="https://m.kinolights.com/title/2553"/>
-        <updated>2022-11-16T17:25:03.837Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/2553"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_2553_1566200122.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number16"></i></span><span data-v-15d4529a="" class="title-text">몸값</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">9
+        <title type="html"><![CDATA[공조 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/3709</id>
+        <link href="https://m.kinolights.com/title/3709"/>
+        <updated>2022-11-16T17:25:03.828Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/3709"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_3709_1579661215.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_3709_1579661215.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number11"></i></span><span data-v-15d4529a="" class="title-text">공조</span></span><span data-v-15d4529a="" class="right-content-wrap"><!----><span data-v-15d4529a="" class="rank-change-num hyphen">-
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -144,7 +102,15 @@
         <id>https://m.kinolights.com/title/62194</id>
         <link href="https://m.kinolights.com/title/62194"/>
         <updated>2022-11-16T17:25:03.838Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/62194"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_62194_1525064196.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number17"></i></span><span data-v-15d4529a="" class="title-text">레슬러</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">6
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/62194"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_62194_1525064196.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_62194_1525064196.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number12"></i></span><span data-v-15d4529a="" class="title-text">레슬러</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">5
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치얼업 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/115013</id>
+        <link href="https://m.kinolights.com/title/115013"/>
+        <updated>2022-11-16T17:25:03.827Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/115013"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115013_1665414030.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115013_1665414030.jpeg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-15d4529a="" class="title-text">치얼업</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">3
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -152,23 +118,55 @@
         <id>https://m.kinolights.com/title/98525</id>
         <link href="https://m.kinolights.com/title/98525"/>
         <updated>2022-11-16T17:25:03.839Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/98525"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_98525_1659088011.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number18"></i></span><span data-v-15d4529a="" class="title-text">체인소 맨</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">4
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/98525"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_98525_1659088011.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-15d4529a="" class="title-text">체인소 맨</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">4
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[환승연애 2 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/102729</id>
-        <link href="https://m.kinolights.com/title/102729"/>
-        <updated>2022-11-16T17:25:03.840Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/102729"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_102729_1664725413.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number19"></i></span><span data-v-15d4529a="" class="title-text">환승연애 2</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">3
+        <title type="html"><![CDATA[동감 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/9937</id>
+        <link href="https://m.kinolights.com/title/9937"/>
+        <updated>2022-11-17T08:31:48.859Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/9937"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_9937_1618907034.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number15"></i></span><span data-v-15d4529a="" class="title-text">동감</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">14
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에놀라 홈즈 2 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/112743</id>
-        <link href="https://m.kinolights.com/title/112743"/>
-        <updated>2022-11-16T17:25:03.840Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/112743"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_112743_1665655261.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number20"></i></span><span data-v-15d4529a="" class="title-text">에놀라 홈즈 2</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">3
+        <title type="html"><![CDATA[공조2: 인터내셔날 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/90599</id>
+        <link href="https://m.kinolights.com/title/90599"/>
+        <updated>2022-11-16T17:25:03.825Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/90599"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_90599_1661310081.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number16"></i></span><span data-v-15d4529a="" class="title-text">공조2: 인터내셔날</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">7
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸값 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/2553</id>
+        <link href="https://m.kinolights.com/title/2553"/>
+        <updated>2022-11-16T17:25:03.837Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/2553"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_2553_1566200122.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number17"></i></span><span data-v-15d4529a="" class="title-text">몸값</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">1
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용감한 형사들 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/104762</id>
+        <link href="https://m.kinolights.com/title/104762"/>
+        <updated>2022-11-17T08:31:48.860Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/104762"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104762_1648972548.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number18"></i></span><span data-v-15d4529a="" class="title-text">용감한 형사들</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">4
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타짜 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/8375</id>
+        <link href="https://m.kinolights.com/title/8375"/>
+        <updated>2022-11-17T08:31:48.860Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/8375"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_8375_1583741012.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number19"></i></span><span data-v-15d4529a="" class="title-text">타짜</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">2
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일당백집사 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/114965</id>
+        <link href="https://m.kinolights.com/title/114965"/>
+        <updated>2022-11-17T08:31:48.861Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/114965"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_114965_1663922324.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number20"></i></span><span data-v-15d4529a="" class="title-text">일당백집사</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-15d4529a="" class="rank-change-num up">8
               </span></span></a>]]></content>
     </entry>
 </feed>
