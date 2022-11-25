@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2022-11-24T23:23:42.123Z</updated>
+    <updated>2022-11-25T01:50:54.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[영화 6천원에 예매하는 방법]]></title>
-        <id>https://ui.vpay.co.kr/s/JxQb/202?cmpid=pbmovie-kinolights_App_paybooc_typeA_221111</id>
-        <link href="https://ui.vpay.co.kr/s/JxQb/202?cmpid=pbmovie-kinolights_App_paybooc_typeA_221111"/>
-        <updated>2022-11-24T02:57:34.132Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="https://ui.vpay.co.kr/s/JxQb/202?cmpid=pbmovie-kinolights_App_paybooc_typeA_221111" target="_blank" rel="noopener"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="featured-logo-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--bccard" style="width: 20px; height: 20px;"></i></span><span data-v-15d4529a="" class="title-text"><span data-v-15d4529a="">영화 <b style="color: rgb(240, 62, 62);">6천원에 예매</b>하는 방법</span></span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="featured-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[올빼미]]></title>
+        <id>https://m.kinolights.com/title/102300</id>
+        <link href="https://m.kinolights.com/title/102300"/>
+        <updated>2022-11-24T08:27:39.180Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/102300" target="_self" rel="noopener"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="featured-logo-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-15d4529a="" class="title-text"><span data-v-15d4529a="">올빼미</span></span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="featured-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재벌집 막내아들]]></title>
