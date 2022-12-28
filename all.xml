@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-28T06:25:07.577Z</updated>
+    <updated>2022-12-28T07:18:02.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[더 글로리 (키노라이츠 ─ 통합차트)]]></title>
@@ -48,7 +48,7 @@
         <id>https://m.kinolights.com/title/13908</id>
         <link href="https://m.kinolights.com/title/13908"/>
         <updated>2022-12-14T09:20:14.630Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/13908"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_13908_1525067308.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_13908_1525067308.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number5"></i></span><span data-v-15d4529a="" class="title-text">아바타</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">1
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/13908"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="poster-img"><img data-v-15d4529a="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_13908_1672210102.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_13908_1672210102.jpg" lazy="loaded"></span><span data-v-15d4529a="" class="rank-number"><i data-v-15d4529a="" class="kino-icon kino-icon--rank-number5"></i></span><span data-v-15d4529a="" class="title-text">아바타</span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="polygon-wrap"><i data-v-15d4529a="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-15d4529a="" class="rank-change-num down">1
               </span></span></a>]]></content>
     </entry>
     <entry>
