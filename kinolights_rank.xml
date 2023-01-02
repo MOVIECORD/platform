@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-01-01T23:19:26.846Z</updated>
+    <updated>2023-01-02T01:38:13.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[더 글로리]]></title>
-        <id>https://m.kinolights.com/title/115522</id>
-        <link href="https://m.kinolights.com/title/115522"/>
-        <updated>2022-12-30T14:17:26.607Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="/title/115522" target="_self" rel="noopener"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="featured-logo-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-15d4529a="" class="title-text"><span data-v-15d4529a="">더 글로리</span></span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="featured-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[스위치]]></title>
+        <id>https://m.post.naver.com/viewer/postView.nhn?volumeNo=34970739&amp;memberNo=19452976</id>
+        <link href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=34970739&amp;memberNo=19452976"/>
+        <updated>2023-01-02T01:38:12.536Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=34970739&amp;memberNo=19452976" target="_blank" rel="noopener"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="featured-logo-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-15d4529a="" class="title-text"><span data-v-15d4529a="">스위치</span></span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="featured-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 글로리]]></title>
