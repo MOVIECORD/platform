@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-22T23:19:44.203Z</updated>
+    <updated>2023-01-23T01:40:47.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[교섭 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://post.naver.com/viewer/postView.naver?volumeNo=35120509&amp;memberNo=16845719</id>
-        <link href="https://post.naver.com/viewer/postView.naver?volumeNo=35120509&amp;memberNo=16845719"/>
-        <updated>2023-01-16T04:25:13.187Z</updated>
-        <content type="html"><![CDATA[<a data-v-15d4529a="" href="https://post.naver.com/viewer/postView.naver?volumeNo=35120509&amp;memberNo=16845719" target="_blank" rel="noopener"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="featured-logo-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-15d4529a="" class="title-text"><span data-v-15d4529a="">교섭</span></span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="featured-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[바빌론 (키노라이츠 ─ 통합차트)]]></title>
+        <id>http://babylonmovie.kr/</id>
+        <link href="http://babylonmovie.kr/"/>
+        <updated>2023-01-23T01:40:47.148Z</updated>
+        <content type="html"><![CDATA[<a data-v-15d4529a="" href="http://babylonmovie.kr/" target="_blank" rel="noopener"><span data-v-15d4529a="" class="left-content-wrap"><span data-v-15d4529a="" class="featured-logo-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-15d4529a="" class="title-text"><span data-v-15d4529a="">바빌론</span></span></span><span data-v-15d4529a="" class="right-content-wrap"><span data-v-15d4529a="" class="featured-ico"><i data-v-15d4529a="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정이 (키노라이츠 ─ 통합차트)]]></title>
