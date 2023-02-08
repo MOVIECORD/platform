@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-02-07T23:20:47.836Z</updated>
+    <updated>2023-02-08T01:45:40.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[너의 모든 것 시즌 4 파트 1]]></title>
-        <id>https://m.kinolights.com/title/115519</id>
-        <link href="https://m.kinolights.com/title/115519"/>
-        <updated>2023-02-06T01:40:50.794Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/115519" target="_self" rel="noopener"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="featured-logo-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-654f9ea5="" class="title-text"><span data-v-654f9ea5="">너의 모든 것 시즌 4 파트 1</span></span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="featured-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[간니발]]></title>
+        <id>https://youtu.be/m5Uyji9i76E</id>
+        <link href="https://youtu.be/m5Uyji9i76E"/>
+        <updated>2023-02-08T01:45:40.046Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="https://youtu.be/m5Uyji9i76E " target="_blank" rel="noopener"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="featured-logo-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--disney" style="width: 20px; height: 20px;"></i></span><span data-v-654f9ea5="" class="title-text"><span data-v-654f9ea5="">간니발</span></span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="featured-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대행사]]></title>
