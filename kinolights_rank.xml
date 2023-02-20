@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-02-20T05:20:05.470Z</updated>
+    <updated>2023-02-20T06:26:59.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
-    <entry>
-        <title type="html"><![CDATA[모범택시 2]]></title>
-        <id>https://m.kinolights.com/title/105988</id>
-        <link href="https://m.kinolights.com/title/105988"/>
-        <updated>2023-02-15T01:47:49.977Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/105988" target="_self" rel="noopener"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="featured-logo-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--wavve" style="width: 20px; height: 20px;"></i></span><span data-v-654f9ea5="" class="title-text"><span data-v-654f9ea5="">모범택시 2</span></span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="featured-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰을 떨어뜨렸을 뿐인데]]></title>
         <id>https://m.kinolights.com/title/102293</id>
@@ -121,7 +114,7 @@
         <id>https://m.kinolights.com/title/116620</id>
         <link href="https://m.kinolights.com/title/116620"/>
         <updated>2023-02-11T01:39:51.521Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/116620"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_116620_1669601887.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-654f9ea5="" class="title-text">더 퍼스트 슬램덩크</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">1
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/116620"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_116620_1669601887.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_116620_1669601887.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-654f9ea5="" class="title-text">더 퍼스트 슬램덩크</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">1
               </span></span></a>]]></content>
     </entry>
     <entry>
