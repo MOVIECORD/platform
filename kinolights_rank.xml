@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-03-12T23:19:18.720Z</updated>
+    <updated>2023-03-13T01:41:27.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[대외비]]></title>
-        <id>https://m.kinolights.com/title/97985</id>
-        <link href="https://m.kinolights.com/title/97985"/>
-        <updated>2023-03-10T06:27:46.709Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/97985" target="_self" rel="noopener"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="featured-logo-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-654f9ea5="" class="title-text"><span data-v-654f9ea5="">대외비</span></span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="featured-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[더 글로리 파트 2]]></title>
+        <id>https://m.kinolights.com/title/117299</id>
+        <link href="https://m.kinolights.com/title/117299"/>
+        <updated>2023-03-11T02:38:48.553Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/117299" target="_self" rel="noopener"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="featured-logo-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-654f9ea5="" class="title-text"><span data-v-654f9ea5="">더 글로리 파트 2</span></span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="featured-ico"><i data-v-654f9ea5="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 글로리 파트 2]]></title>
