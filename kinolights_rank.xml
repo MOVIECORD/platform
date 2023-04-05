@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-04-05T02:24:36.783Z</updated>
+    <updated>2023-04-05T03:20:04.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
@@ -29,19 +29,19 @@
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너의 이름은.]]></title>
-        <id>https://m.kinolights.com/title/1836</id>
-        <link href="https://m.kinolights.com/title/1836"/>
-        <updated>2023-03-10T06:27:46.710Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/1836"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_1836_1624521438.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_1836_1624521438.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number3"></i></span><span data-v-654f9ea5="" class="title-text">너의 이름은.</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">2
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[방과 후 전쟁활동]]></title>
         <id>https://m.kinolights.com/title/102734</id>
         <link href="https://m.kinolights.com/title/102734"/>
         <updated>2023-04-01T03:20:26.937Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/102734"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_102734_1677733519.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_102734_1677733519.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number4"></i></span><span data-v-654f9ea5="" class="title-text">방과 후 전쟁활동</span></span><span data-v-654f9ea5="" class="right-content-wrap"><!----><span data-v-654f9ea5="" class="rank-change-num hyphen">-
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/102734"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_102734_1677733519.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_102734_1677733519.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number3"></i></span><span data-v-654f9ea5="" class="title-text">방과 후 전쟁활동</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">1
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너의 이름은.]]></title>
+        <id>https://m.kinolights.com/title/1836</id>
+        <link href="https://m.kinolights.com/title/1836"/>
+        <updated>2023-03-10T06:27:46.710Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/1836"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_1836_1624521438.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_1836_1624521438.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number4"></i></span><span data-v-654f9ea5="" class="title-text">너의 이름은.</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">1
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -49,7 +49,7 @@
         <id>https://m.kinolights.com/title/69971</id>
         <link href="https://m.kinolights.com/title/69971"/>
         <updated>2023-03-25T03:19:43.762Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/69971"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_69971_1558712031.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_69971_1558712031.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number5"></i></span><span data-v-654f9ea5="" class="title-text">존 윅 3: 파라벨룸</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">1
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/69971"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_69971_1558712031.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_69971_1558712031.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number5"></i></span><span data-v-654f9ea5="" class="title-text">존 윅 3: 파라벨룸</span></span><span data-v-654f9ea5="" class="right-content-wrap"><!----><span data-v-654f9ea5="" class="rank-change-num hyphen">-
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -57,15 +57,7 @@
         <id>https://m.kinolights.com/title/105988</id>
         <link href="https://m.kinolights.com/title/105988"/>
         <updated>2023-03-10T06:27:46.715Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/105988"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_105988_1675393848.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_105988_1675393848.jpeg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number6"></i></span><span data-v-654f9ea5="" class="title-text">모범택시 2</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">3
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 글로리 파트 2]]></title>
-        <id>https://m.kinolights.com/title/117299</id>
-        <link href="https://m.kinolights.com/title/117299"/>
-        <updated>2023-03-11T02:38:48.553Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/117299"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_117299_1675907194.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_117299_1675907194.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number7"></i></span><span data-v-654f9ea5="" class="title-text">더 글로리 파트 2</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">3
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/105988"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_105988_1675393848.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_105988_1675393848.jpeg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number6"></i></span><span data-v-654f9ea5="" class="title-text">모범택시 2</span></span><span data-v-654f9ea5="" class="right-content-wrap"><!----><span data-v-654f9ea5="" class="rank-change-num hyphen">-
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -73,39 +65,15 @@
         <id>https://m.kinolights.com/title/3979</id>
         <link href="https://m.kinolights.com/title/3979"/>
         <updated>2023-03-25T03:19:43.766Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/3979"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_3979_1663899685.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_3979_1663899685.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-654f9ea5="" class="title-text">존 윅: 리로드</span></span><span data-v-654f9ea5="" class="right-content-wrap"><!----><span data-v-654f9ea5="" class="rank-change-num hyphen">-
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/3979"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_3979_1663899685.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_3979_1663899685.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number7"></i></span><span data-v-654f9ea5="" class="title-text">존 윅: 리로드</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">1
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[날씨의 아이]]></title>
-        <id>https://m.kinolights.com/title/71110</id>
-        <link href="https://m.kinolights.com/title/71110"/>
-        <updated>2023-03-18T02:40:03.314Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/71110"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_71110_1590470664.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_71110_1590470664.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number9"></i></span><span data-v-654f9ea5="" class="title-text">날씨의 아이</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">2
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신성한, 이혼]]></title>
-        <id>https://m.kinolights.com/title/116524</id>
-        <link href="https://m.kinolights.com/title/116524"/>
-        <updated>2023-03-10T06:27:46.714Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/116524"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_116524_1675754211.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_116524_1675754211.jpeg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-654f9ea5="" class="title-text">신성한, 이혼</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">4
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에브리씽 에브리웨어 올 앳 원스]]></title>
-        <id>https://m.kinolights.com/title/104353</id>
-        <link href="https://m.kinolights.com/title/104353"/>
-        <updated>2023-03-10T06:27:46.714Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/104353"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104353_1662429957.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104353_1662429957.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number11"></i></span><span data-v-654f9ea5="" class="title-text">에브리씽 에브리웨어 올 앳 원스</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">2
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장사천재 백사장]]></title>
-        <id>https://m.kinolights.com/title/121582</id>
-        <link href="https://m.kinolights.com/title/121582"/>
-        <updated>2023-04-04T03:19:19.304Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/121582"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_121582_1679464500.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_121582_1679464500.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number12"></i></span><span data-v-654f9ea5="" class="title-text">장사천재 백사장</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">16
+        <title type="html"><![CDATA[더 글로리 파트 2]]></title>
+        <id>https://m.kinolights.com/title/117299</id>
+        <link href="https://m.kinolights.com/title/117299"/>
+        <updated>2023-03-11T02:38:48.553Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/117299"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_117299_1675907194.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_117299_1675907194.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-654f9ea5="" class="title-text">더 글로리 파트 2</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">1
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -113,55 +81,23 @@
         <id>https://m.kinolights.com/title/121605</id>
         <link href="https://m.kinolights.com/title/121605"/>
         <updated>2023-04-04T03:19:19.305Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/121605"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_121605_1679534663.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_121605_1679534663.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-654f9ea5="" class="title-text">아가능우도료구성: 오 나의 여신님</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">34
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/121605"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_121605_1679534663.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_121605_1679534663.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number9"></i></span><span data-v-654f9ea5="" class="title-text">아가능우도료구성: 오 나의 여신님</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">4
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 글로리]]></title>
-        <id>https://m.kinolights.com/title/115522</id>
-        <link href="https://m.kinolights.com/title/115522"/>
-        <updated>2023-03-11T02:38:48.554Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/115522"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115522_1670467059.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-654f9ea5="" class="title-text">더 글로리</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">3
+        <title type="html"><![CDATA[신성한, 이혼]]></title>
+        <id>https://m.kinolights.com/title/116524</id>
+        <link href="https://m.kinolights.com/title/116524"/>
+        <updated>2023-03-10T06:27:46.714Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/116524"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_116524_1675754211.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_116524_1675754211.jpeg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-654f9ea5="" class="title-text">신성한, 이혼</span></span><span data-v-654f9ea5="" class="right-content-wrap"><!----><span data-v-654f9ea5="" class="rank-change-num hyphen">-
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혜미리예채파]]></title>
-        <id>https://m.kinolights.com/title/120817</id>
-        <link href="https://m.kinolights.com/title/120817"/>
-        <updated>2023-04-04T03:19:19.310Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/120817"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_120817_1677199958.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number15"></i></span><span data-v-654f9ea5="" class="title-text">혜미리예채파</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">9
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판도라: 조작된 낙원]]></title>
-        <id>https://m.kinolights.com/title/118740</id>
-        <link href="https://m.kinolights.com/title/118740"/>
-        <updated>2023-03-26T02:40:20.679Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/118740"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_118740_1676798471.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number16"></i></span><span data-v-654f9ea5="" class="title-text">판도라: 조작된 낙원</span></span><span data-v-654f9ea5="" class="right-content-wrap"><!----><span data-v-654f9ea5="" class="rank-change-num hyphen">-
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아바타: 물의 길]]></title>
-        <id>https://m.kinolights.com/title/104079</id>
-        <link href="https://m.kinolights.com/title/104079"/>
-        <updated>2023-03-29T02:49:30.398Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/104079"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104079_1668474046.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number17"></i></span><span data-v-654f9ea5="" class="title-text">아바타: 물의 길</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">10
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올빼미]]></title>
-        <id>https://m.kinolights.com/title/102300</id>
-        <link href="https://m.kinolights.com/title/102300"/>
-        <updated>2023-03-31T02:39:26.832Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/102300"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_102300_1666059553.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number18"></i></span><span data-v-654f9ea5="" class="title-text">올빼미</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">5
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[압꾸정]]></title>
-        <id>https://m.kinolights.com/title/88704</id>
-        <link href="https://m.kinolights.com/title/88704"/>
-        <updated>2023-04-04T03:19:19.317Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/88704"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_88704_1669777523.JPG" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number19"></i></span><span data-v-654f9ea5="" class="title-text">압꾸정</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">12
+        <title type="html"><![CDATA[에브리씽 에브리웨어 올 앳 원스]]></title>
+        <id>https://m.kinolights.com/title/104353</id>
+        <link href="https://m.kinolights.com/title/104353"/>
+        <updated>2023-03-10T06:27:46.714Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/104353"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104353_1662429957.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104353_1662429957.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number11"></i></span><span data-v-654f9ea5="" class="title-text">에브리씽 에브리웨어 올 앳 원스</span></span><span data-v-654f9ea5="" class="right-content-wrap"><!----><span data-v-654f9ea5="" class="rank-change-num hyphen">-
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -169,7 +105,71 @@
         <id>https://m.kinolights.com/title/101661</id>
         <link href="https://m.kinolights.com/title/101661"/>
         <updated>2023-03-10T06:27:46.716Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/101661"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_101661_1674709973.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number20"></i></span><span data-v-654f9ea5="" class="title-text">스즈메의 문단속</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">8
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/101661"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_101661_1674709973.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_101661_1674709973.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number12"></i></span><span data-v-654f9ea5="" class="title-text">스즈메의 문단속</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">8
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올빼미]]></title>
+        <id>https://m.kinolights.com/title/102300</id>
+        <link href="https://m.kinolights.com/title/102300"/>
+        <updated>2023-03-31T02:39:26.832Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/102300"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_102300_1666059553.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_102300_1666059553.jpg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-654f9ea5="" class="title-text">올빼미</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">5
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[날씨의 아이]]></title>
+        <id>https://m.kinolights.com/title/71110</id>
+        <link href="https://m.kinolights.com/title/71110"/>
+        <updated>2023-03-18T02:40:03.314Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/71110"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_71110_1590470664.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-654f9ea5="" class="title-text">날씨의 아이</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">5
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 글로리]]></title>
+        <id>https://m.kinolights.com/title/115522</id>
+        <link href="https://m.kinolights.com/title/115522"/>
+        <updated>2023-03-11T02:38:48.554Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/115522"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_115522_1670467059.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number15"></i></span><span data-v-654f9ea5="" class="title-text">더 글로리</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">1
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장사천재 백사장]]></title>
+        <id>https://m.kinolights.com/title/121582</id>
+        <link href="https://m.kinolights.com/title/121582"/>
+        <updated>2023-04-04T03:19:19.304Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/121582"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_121582_1679464500.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number16"></i></span><span data-v-654f9ea5="" class="title-text">장사천재 백사장</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">4
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[터무니없는 스킬로 이세계 방랑 밥]]></title>
+        <id>https://m.kinolights.com/title/117110</id>
+        <link href="https://m.kinolights.com/title/117110"/>
+        <updated>2023-04-05T03:20:03.283Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/117110"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_117110_1673796803.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number17"></i></span><span data-v-654f9ea5="" class="title-text">터무니없는 스킬로 이세계 방랑 밥</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">10
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혜미리예채파]]></title>
+        <id>https://m.kinolights.com/title/120817</id>
+        <link href="https://m.kinolights.com/title/120817"/>
+        <updated>2023-04-04T03:19:19.310Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/120817"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_120817_1677199958.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number18"></i></span><span data-v-654f9ea5="" class="title-text">혜미리예채파</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">3
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아바타: 물의 길]]></title>
+        <id>https://m.kinolights.com/title/104079</id>
+        <link href="https://m.kinolights.com/title/104079"/>
+        <updated>2023-03-29T02:49:30.398Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/104079"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_104079_1668474046.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number19"></i></span><span data-v-654f9ea5="" class="title-text">아바타: 물의 길</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num down">2
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃선비 열애사]]></title>
+        <id>https://m.kinolights.com/title/118095</id>
+        <link href="https://m.kinolights.com/title/118095"/>
+        <updated>2023-04-05T03:20:03.290Z</updated>
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/118095"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_118095_1679289228.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number20"></i></span><span data-v-654f9ea5="" class="title-text">꽃선비 열애사</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">24
               </span></span></a>]]></content>
     </entry>
 </feed>
