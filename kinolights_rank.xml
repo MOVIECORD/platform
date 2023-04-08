@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-04-08T11:14:21.805Z</updated>
+    <updated>2023-04-08T12:32:44.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
@@ -89,7 +89,7 @@
         <id>https://m.kinolights.com/title/121442</id>
         <link href="https://m.kinolights.com/title/121442"/>
         <updated>2023-04-07T03:19:06.481Z</updated>
-        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/121442"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_121442_1678947329.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_121442_1678947329.jpeg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-654f9ea5="" class="title-text">성난 사람들 </span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">7
+        <content type="html"><![CDATA[<a data-v-654f9ea5="" href="/title/121442"><span data-v-654f9ea5="" class="left-content-wrap"><span data-v-654f9ea5="" class="poster-img"><img data-v-654f9ea5="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_121442_1678947329.jpeg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_121442_1678947329.jpeg" lazy="loaded"></span><span data-v-654f9ea5="" class="rank-number"><i data-v-654f9ea5="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-654f9ea5="" class="title-text">성난 사람들</span></span><span data-v-654f9ea5="" class="right-content-wrap"><span data-v-654f9ea5="" class="polygon-wrap"><i data-v-654f9ea5="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-654f9ea5="" class="rank-change-num up">7
               </span></span></a>]]></content>
     </entry>
     <entry>
