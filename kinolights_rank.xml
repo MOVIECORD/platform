@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-04-26T10:20:21.061Z</updated>
+    <updated>2023-04-26T11:16:17.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
-    <entry>
-        <title type="html"><![CDATA[드림]]></title>
-        <id>https://m.kinolights.com/title/79199</id>
-        <link href="https://m.kinolights.com/title/79199"/>
-        <updated>2023-04-24T01:35:48.089Z</updated>
-        <content type="html"><![CDATA[<a data-v-6e95b8a4="" href="/title/79199" target="_self" rel="noopener"><span data-v-6e95b8a4="" class="left-content-wrap"><span data-v-6e95b8a4="" class="featured-logo-ico"><i data-v-6e95b8a4="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-6e95b8a4="" class="title-text"><span data-v-6e95b8a4="">드림</span></span></span><span data-v-6e95b8a4="" class="right-content-wrap"><span data-v-6e95b8a4="" class="featured-ico"><i data-v-6e95b8a4="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[존 윅]]></title>
         <id>https://m.kinolights.com/title/17005</id>
@@ -113,7 +106,7 @@
         <id>https://m.kinolights.com/title/102320</id>
         <link href="https://m.kinolights.com/title/102320"/>
         <updated>2023-04-26T03:20:22.266Z</updated>
-        <content type="html"><![CDATA[<a data-v-6e95b8a4="" href="/title/102320"><span data-v-6e95b8a4="" class="left-content-wrap"><span data-v-6e95b8a4="" class="poster-img"><img data-v-6e95b8a4="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_102320_1673405548.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/poster_lazyload.png" lazy="loading"></span><span data-v-6e95b8a4="" class="rank-number"><i data-v-6e95b8a4="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-6e95b8a4="" class="title-text">스위치</span></span><span data-v-6e95b8a4="" class="right-content-wrap"><span data-v-6e95b8a4="" class="new"><span data-v-6e95b8a4="">NEW</span></span></span></a>]]></content>
+        <content type="html"><![CDATA[<a data-v-6e95b8a4="" href="/title/102320"><span data-v-6e95b8a4="" class="left-content-wrap"><span data-v-6e95b8a4="" class="poster-img"><img data-v-6e95b8a4="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_102320_1673405548.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/movie_poster_images/280x400/movie_102320_1673405548.jpg" lazy="loaded"></span><span data-v-6e95b8a4="" class="rank-number"><i data-v-6e95b8a4="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-6e95b8a4="" class="title-text">스위치</span></span><span data-v-6e95b8a4="" class="right-content-wrap"><span data-v-6e95b8a4="" class="new"><span data-v-6e95b8a4="">NEW</span></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존 윅 4]]></title>
