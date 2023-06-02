@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-06-02T03:20:11.735Z</updated>
+    <updated>2023-06-02T04:21:20.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
         <title type="html"><![CDATA[귀공자]]></title>
-        <id>https://m.kinolights.com/title/102303</id>
-        <link href="https://m.kinolights.com/title/102303"/>
-        <updated>2023-06-01T02:10:05.374Z</updated>
-        <content type="html"><![CDATA[<a data-v-6e95b8a4="" href="/title/102303" target="_self" rel="noopener"><span data-v-6e95b8a4="" class="left-content-wrap"><span data-v-6e95b8a4="" class="featured-logo-ico"><i data-v-6e95b8a4="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-6e95b8a4="" class="title-text"><span data-v-6e95b8a4="">귀공자</span></span></span><span data-v-6e95b8a4="" class="right-content-wrap"><span data-v-6e95b8a4="" class="featured-ico"><i data-v-6e95b8a4="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <id>https://youtu.be/Obc6ecquoA0</id>
+        <link href="https://youtu.be/Obc6ecquoA0"/>
+        <updated>2023-06-02T04:21:19.984Z</updated>
+        <content type="html"><![CDATA[<a data-v-6e95b8a4="" href="https://youtu.be/Obc6ecquoA0" target="_blank" rel="noopener"><span data-v-6e95b8a4="" class="left-content-wrap"><span data-v-6e95b8a4="" class="featured-logo-ico"><i data-v-6e95b8a4="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-6e95b8a4="" class="title-text"><span data-v-6e95b8a4="">귀공자</span></span></span><span data-v-6e95b8a4="" class="right-content-wrap"><span data-v-6e95b8a4="" class="featured-ico"><i data-v-6e95b8a4="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시 2]]></title>
