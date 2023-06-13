@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-13T05:17:30.605Z</updated>
+    <updated>2023-06-13T06:23:33.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[사냥개들 (키노라이츠 ─ 통합차트)]]></title>
@@ -16,7 +16,7 @@
         <id>https://m.kinolights.com/title/123894</id>
         <link href="https://m.kinolights.com/title/123894"/>
         <updated>2023-06-12T02:57:03.540Z</updated>
-        <content type="html"><![CDATA[<a data-v-6e95b8a4="" href="/title/123894"><span data-v-6e95b8a4="" class="left-content-wrap"><span data-v-6e95b8a4="" class="poster-img"><img data-v-6e95b8a4="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_123894_1686592948.JPG" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_123894_1686592948.JPG" lazy="loaded"></span><span data-v-6e95b8a4="" class="rank-number"><i data-v-6e95b8a4="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-6e95b8a4="" class="title-text">태어난 김에 세계일주 2</span></span><span data-v-6e95b8a4="" class="right-content-wrap"><span data-v-6e95b8a4="" class="polygon-wrap"><i data-v-6e95b8a4="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-6e95b8a4="" class="rank-change-num up">18
+        <content type="html"><![CDATA[<a data-v-6e95b8a4="" href="/title/123894"><span data-v-6e95b8a4="" class="left-content-wrap"><span data-v-6e95b8a4="" class="poster-img"><img data-v-6e95b8a4="" alt="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_123894_1686634884.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_123894_1686634884.jpg" lazy="loaded"></span><span data-v-6e95b8a4="" class="rank-number"><i data-v-6e95b8a4="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-6e95b8a4="" class="title-text">태어난 김에 세계일주 2</span></span><span data-v-6e95b8a4="" class="right-content-wrap"><span data-v-6e95b8a4="" class="polygon-wrap"><i data-v-6e95b8a4="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-6e95b8a4="" class="rank-change-num up">18
               </span></span></a>]]></content>
     </entry>
     <entry>
