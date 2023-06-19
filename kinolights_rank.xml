@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-06-18T23:18:46.478Z</updated>
+    <updated>2023-06-19T01:44:58.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[사냥개들]]></title>
-        <id>https://m.kinolights.com/title/100217</id>
-        <link href="https://m.kinolights.com/title/100217"/>
-        <updated>2023-06-10T02:47:29.176Z</updated>
-        <content type="html"><![CDATA[<a data-v-0b36893f="" href="/title/100217" target="_self" rel="noopener"><span data-v-0b36893f="" class="left-content-wrap"><span data-v-0b36893f="" class="featured-logo-ico"><i data-v-0b36893f="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-0b36893f="" class="title-text"><span data-v-0b36893f="">사냥개들</span></span></span><span data-v-0b36893f="" class="right-content-wrap"><span data-v-0b36893f="" class="featured-ico"><i data-v-0b36893f="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[마당이 있는 집]]></title>
+        <id>https://m.kinolights.com/title/123019</id>
+        <link href="https://m.kinolights.com/title/123019"/>
+        <updated>2023-06-19T01:44:57.862Z</updated>
+        <content type="html"><![CDATA[<a data-v-0b36893f="" href="/title/123019" target="_self" rel="noopener"><span data-v-0b36893f="" class="left-content-wrap"><span data-v-0b36893f="" class="featured-logo-ico"><i data-v-0b36893f="" class="kino-icon kino-icon--tving" style="width: 20px; height: 20px;"></i></span><span data-v-0b36893f="" class="title-text"><span data-v-0b36893f="">마당이 있는 집</span></span></span><span data-v-0b36893f="" class="right-content-wrap"><span data-v-0b36893f="" class="featured-ico"><i data-v-0b36893f="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[낭만닥터 김사부 시즌 3]]></title>
