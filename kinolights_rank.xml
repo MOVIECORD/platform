@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-06-30T07:18:11.305Z</updated>
+    <updated>2023-06-30T08:25:17.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[악귀]]></title>
         <id>https://m.kinolights.com/title/119271</id>
         <link href="https://m.kinolights.com/title/119271"/>
-        <updated>2023-06-30T07:18:10.628Z</updated>
+        <updated>2023-06-30T07:18:10.624Z</updated>
         <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/119271"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><img data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45="" alt="악귀" class="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_119271_1685499474.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_119271_1685499474.jpg" lazy="loaded"></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-63110f45="" class="title-text">악귀</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">1
               </span></span></a>]]></content>
     </entry>
