@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-07-09T22:19:24.527Z</updated>
+    <updated>2023-07-09T23:19:32.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
@@ -72,7 +72,7 @@
         <title type="html"><![CDATA[셀러브리티]]></title>
         <id>https://m.kinolights.com/title/117301</id>
         <link href="https://m.kinolights.com/title/117301"/>
-        <updated>2023-07-09T22:19:11.866Z</updated>
+        <updated>2023-07-09T22:19:11.845Z</updated>
         <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/117301"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><img data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45="" alt="셀러브리티" class="" data-src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_117301_1686795430.jpg" src="https://nujhrcqkiwag1408085.cdn.ntruss.com/static/upload/drama_poster_images/280x400/drama_117301_1686795430.jpg" lazy="loaded"></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-63110f45="" class="title-text">셀러브리티</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">1
               </span></span></a>]]></content>
     </entry>
