@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-07-09T23:19:32.734Z</updated>
+    <updated>2023-07-10T01:58:49.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[셀러브리티]]></title>
-        <id>https://m.kinolights.com/title/117301</id>
-        <link href="https://m.kinolights.com/title/117301"/>
-        <updated>2023-07-09T22:19:11.845Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/117301" target="_self" rel="noopener"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="featured-logo-ico"><i data-v-63110f45="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-63110f45="" class="title-text"><span data-v-63110f45="">셀러브리티</span></span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="featured-ico"><i data-v-63110f45="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[밀수]]></title>
+        <id>https://m.kinolights.com/title/102298</id>
+        <link href="https://m.kinolights.com/title/102298"/>
+        <updated>2023-07-10T01:58:49.005Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/102298" target="_self" rel="noopener"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="featured-logo-ico"><i data-v-63110f45="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-63110f45="" class="title-text"><span data-v-63110f45="">밀수</span></span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="featured-ico"><i data-v-63110f45="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[악귀]]></title>

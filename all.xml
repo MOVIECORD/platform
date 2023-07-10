@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-09T23:19:32.737Z</updated>
+    <updated>2023-07-10T01:58:49.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[셀러브리티 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/117301</id>
-        <link href="https://m.kinolights.com/title/117301"/>
-        <updated>2023-07-02T03:29:15.032Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/117301" target="_self" rel="noopener"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="featured-logo-ico"><i data-v-63110f45="" class="kino-icon kino-icon--netflix" style="width: 20px; height: 20px;"></i></span><span data-v-63110f45="" class="title-text"><span data-v-63110f45="">셀러브리티</span></span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="featured-ico"><i data-v-63110f45="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[밀수 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/102298</id>
+        <link href="https://m.kinolights.com/title/102298"/>
+        <updated>2023-07-10T01:58:49.005Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/102298" target="_self" rel="noopener"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="featured-logo-ico"><i data-v-63110f45="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-63110f45="" class="title-text"><span data-v-63110f45="">밀수</span></span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="featured-ico"><i data-v-63110f45="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[악귀 (키노라이츠 ─ 통합차트)]]></title>
