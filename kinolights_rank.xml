@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-07-16T23:19:14.471Z</updated>
+    <updated>2023-07-17T02:02:38.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[밀수]]></title>
-        <id>https://m.kinolights.com/title/102298</id>
-        <link href="https://m.kinolights.com/title/102298"/>
-        <updated>2023-07-10T01:58:49.005Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/102298" target="_self" rel="noopener"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="featured-logo-ico"><i data-v-63110f45="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-63110f45="" class="title-text"><span data-v-63110f45="">밀수</span></span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="featured-ico"><i data-v-63110f45="" class="kino-icon kino-icon--featured"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[페이북 영화 예매 7천원 부터]]></title>
+        <id>https://ui.vpay.co.kr/s/JxQb/202</id>
+        <link href="https://ui.vpay.co.kr/s/JxQb/202"/>
+        <updated>2023-07-17T02:02:37.243Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="https://ui.vpay.co.kr/s/JxQb/202" target="_blank" rel="noopener"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="featured-logo-ico"><i data-v-63110f45="" class="kino-icon kino-icon--paybooc" style="width: 20px; height: 20px;"></i></span><span data-v-63110f45="" class="title-text"><span data-v-63110f45="">페이북 <span style="color: rgb(240, 62, 62);">영화 예매 7천원</span> 부터</span></span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="featured-ico"><i data-v-63110f45="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[악귀]]></title>
