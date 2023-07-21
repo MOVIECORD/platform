@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-21T01:39:05.621Z</updated>
+    <updated>2023-07-21T02:37:58.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[페이북 영화 예매 7천원 부터 (키노라이츠 ─ 통합차트)]]></title>
@@ -12,11 +12,12 @@
         <content type="html"><![CDATA[<a data-v-63110f45="" href="https://ui.vpay.co.kr/s/JxQb/202" target="_blank" rel="noopener"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="featured-logo-ico"><i data-v-63110f45="" class="kino-icon kino-icon--paybooc" style="width: 20px; height: 20px;"></i></span><span data-v-63110f45="" class="title-text"><span data-v-63110f45="">페이북 <span style="color: rgb(240, 62, 62);">영화 예매 7천원</span> 부터</span></span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="featured-ico"><i data-v-63110f45="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바비 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/78101</id>
-        <link href="https://m.kinolights.com/title/78101"/>
-        <updated>2023-07-20T02:36:17.372Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/78101"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/fd12d3a8-e231-40d6-a644-8bb4ccbeb85b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/fd12d3a8-e231-40d6-a644-8bb4ccbeb85b.webp" alt="바비" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-63110f45="" class="title-text">바비</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="new"><span data-v-63110f45="">NEW</span></span></span></a>]]></content>
+        <title type="html"><![CDATA[범죄도시 3 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/110565</id>
+        <link href="https://m.kinolights.com/title/110565"/>
+        <updated>2023-06-30T07:18:10.639Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/110565"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/7df625a0-ae95-41ee-afdf-379aa269388c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/7df625a0-ae95-41ee-afdf-379aa269388c.webp" alt="범죄도시 3" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-63110f45="" class="title-text">범죄도시 3</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">4
+              </span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[악귀 (키노라이츠 ─ 통합차트)]]></title>
@@ -31,23 +32,7 @@
         <id>https://m.kinolights.com/title/124705</id>
         <link href="https://m.kinolights.com/title/124705"/>
         <updated>2023-07-18T03:26:30.078Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/124705"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/7238f915-2b33-47a0-a0fa-bcc0d053c00b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/7238f915-2b33-47a0-a0fa-bcc0d053c00b.webp" alt="남남" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number3"></i></span><span data-v-63110f45="" class="title-text">남남</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">2
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미션 임파서블: 로그네이션 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/13913</id>
-        <link href="https://m.kinolights.com/title/13913"/>
-        <updated>2023-07-09T03:31:34.142Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/13913"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/b262a792-9d70-4471-b243-2cbe9d6d3f15.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/b262a792-9d70-4471-b243-2cbe9d6d3f15.webp" alt="미션 임파서블: 로그네이션" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number4"></i></span><span data-v-63110f45="" class="title-text">미션 임파서블: 로그네이션</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">10
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시 3 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/110565</id>
-        <link href="https://m.kinolights.com/title/110565"/>
-        <updated>2023-06-30T07:18:10.639Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/110565"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/7df625a0-ae95-41ee-afdf-379aa269388c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/7df625a0-ae95-41ee-afdf-379aa269388c.webp" alt="범죄도시 3" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number5"></i></span><span data-v-63110f45="" class="title-text">범죄도시 3</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">2
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/124705"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/7238f915-2b33-47a0-a0fa-bcc0d053c00b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/7238f915-2b33-47a0-a0fa-bcc0d053c00b.webp" alt="남남" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number3"></i></span><span data-v-63110f45="" class="title-text">남남</span></span><span data-v-63110f45="" class="right-content-wrap"><!----><span data-v-63110f45="" class="rank-change-num hyphen">-
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -55,54 +40,15 @@
         <id>https://m.kinolights.com/title/120755</id>
         <link href="https://m.kinolights.com/title/120755"/>
         <updated>2023-07-13T03:03:52.265Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/120755"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/4a332a8b-2225-4c1c-8658-0028c9470061.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/4a332a8b-2225-4c1c-8658-0028c9470061.webp" alt="리바운드" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number6"></i></span><span data-v-63110f45="" class="title-text">리바운드</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">2
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/120755"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/4a332a8b-2225-4c1c-8658-0028c9470061.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/4a332a8b-2225-4c1c-8658-0028c9470061.webp" alt="리바운드" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number4"></i></span><span data-v-63110f45="" class="title-text">리바운드</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">2
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀수 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/102298</id>
-        <link href="https://m.kinolights.com/title/102298"/>
-        <updated>2023-07-19T02:55:09.631Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/102298"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/47d84165-02eb-4f13-8be6-53beea92dc6c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/47d84165-02eb-4f13-8be6-53beea92dc6c.webp" alt="밀수" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number7"></i></span><span data-v-63110f45="" class="title-text">밀수</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">6
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미션 임파서블: 폴아웃 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/64792</id>
-        <link href="https://m.kinolights.com/title/64792"/>
-        <updated>2023-07-07T03:01:54.135Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/64792"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/72ad04b2-d8d6-4351-9de2-cf973b7bb1d8.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/72ad04b2-d8d6-4351-9de2-cf973b7bb1d8.webp" alt="미션 임파서블: 폴아웃" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-63110f45="" class="title-text">미션 임파서블: 폴아웃</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">1
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀공자 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/102303</id>
-        <link href="https://m.kinolights.com/title/102303"/>
-        <updated>2023-07-19T02:55:09.609Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/102303"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/0273377d-0199-4130-8e7a-2c2d8bdf8e9b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/0273377d-0199-4130-8e7a-2c2d8bdf8e9b.webp" alt="귀공자" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number9"></i></span><span data-v-63110f45="" class="title-text">귀공자</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">4
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스즈메의 문단속 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/101661</id>
-        <link href="https://m.kinolights.com/title/101661"/>
-        <updated>2023-06-30T07:18:10.633Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/101661"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/4ad3fead-370a-4706-88be-a867f643e4c2.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/4ad3fead-370a-4706-88be-a867f643e4c2.webp" alt="스즈메의 문단속" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-63110f45="" class="title-text">스즈메의 문단속</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">2
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 SOLO <나는 솔로> (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/97833</id>
-        <link href="https://m.kinolights.com/title/97833"/>
-        <updated>2023-07-20T02:36:17.399Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/97833"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/81ae5a42-e67f-42ad-9a8a-4e673b547c20.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/81ae5a42-e67f-42ad-9a8a-4e673b547c20.webp" alt="나는 SOLO <나는 솔로>" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number11"></i></span><span data-v-63110f45="" class="title-text">나는 SOLO &lt;나는 솔로&gt;</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="new"><span data-v-63110f45="">NEW</span></span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹더랜드 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/116526</id>
-        <link href="https://m.kinolights.com/title/116526"/>
-        <updated>2023-06-30T07:18:10.631Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/116526"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/e7f8f43a-fbf0-43a0-9be9-47a794091227.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/e7f8f43a-fbf0-43a0-9be9-47a794091227.webp" alt="킹더랜드" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number12"></i></span><span data-v-63110f45="" class="title-text">킹더랜드</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">5
+        <title type="html"><![CDATA[미션 임파서블: 로그네이션 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/13913</id>
+        <link href="https://m.kinolights.com/title/13913"/>
+        <updated>2023-07-09T03:31:34.142Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/13913"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/b262a792-9d70-4471-b243-2cbe9d6d3f15.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/b262a792-9d70-4471-b243-2cbe9d6d3f15.webp" alt="미션 임파서블: 로그네이션" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number5"></i></span><span data-v-63110f45="" class="title-text">미션 임파서블: 로그네이션</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">1
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -110,7 +56,38 @@
         <id>https://m.kinolights.com/title/101564</id>
         <link href="https://m.kinolights.com/title/101564"/>
         <updated>2023-07-19T02:55:09.624Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/101564"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/34aed39e-0d93-4e42-b46c-f3357fe37fb6.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/34aed39e-0d93-4e42-b46c-f3357fe37fb6.webp" alt="극장판 주술회전 0" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-63110f45="" class="title-text">극장판 주술회전 0</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">3
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/101564"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/34aed39e-0d93-4e42-b46c-f3357fe37fb6.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/34aed39e-0d93-4e42-b46c-f3357fe37fb6.webp" alt="극장판 주술회전 0" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number6"></i></span><span data-v-63110f45="" class="title-text">극장판 주술회전 0</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">7
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바비 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/78101</id>
+        <link href="https://m.kinolights.com/title/78101"/>
+        <updated>2023-07-20T02:36:17.372Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/78101"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/fd12d3a8-e231-40d6-a644-8bb4ccbeb85b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/fd12d3a8-e231-40d6-a644-8bb4ccbeb85b.webp" alt="바비" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number7"></i></span><span data-v-63110f45="" class="title-text">바비</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">6
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 SOLO 그후, 사랑은 계속된다 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/111908</id>
+        <link href="https://m.kinolights.com/title/111908"/>
+        <updated>2023-07-21T02:37:57.226Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/111908"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/2fc33012-440d-4234-8101-53be73624ad2.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/2fc33012-440d-4234-8101-53be73624ad2.webp" alt="나는 SOLO 그후, 사랑은 계속된다" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-63110f45="" class="title-text">나는 SOLO 그후, 사랑은 계속된다</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="new"><span data-v-63110f45="">NEW</span></span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미션 임파서블: 폴아웃 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/64792</id>
+        <link href="https://m.kinolights.com/title/64792"/>
+        <updated>2023-07-07T03:01:54.135Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/64792"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/72ad04b2-d8d6-4351-9de2-cf973b7bb1d8.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/72ad04b2-d8d6-4351-9de2-cf973b7bb1d8.webp" alt="미션 임파서블: 폴아웃" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number9"></i></span><span data-v-63110f45="" class="title-text">미션 임파서블: 폴아웃</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">1
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킹더랜드 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/116526</id>
+        <link href="https://m.kinolights.com/title/116526"/>
+        <updated>2023-06-30T07:18:10.631Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/116526"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/e7f8f43a-fbf0-43a0-9be9-47a794091227.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/e7f8f43a-fbf0-43a0-9be9-47a794091227.webp" alt="킹더랜드" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-63110f45="" class="title-text">킹더랜드</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">2
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -118,54 +95,79 @@
         <id>https://m.kinolights.com/title/122642</id>
         <link href="https://m.kinolights.com/title/122642"/>
         <updated>2023-07-20T02:36:17.406Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/122642"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/27767a64-c49e-4262-8606-94965748ecda.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/27767a64-c49e-4262-8606-94965748ecda.webp" alt="행복배틀" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-63110f45="" class="title-text">행복배틀</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">17
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/122642"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/27767a64-c49e-4262-8606-94965748ecda.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/27767a64-c49e-4262-8606-94965748ecda.webp" alt="행복배틀" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number11"></i></span><span data-v-63110f45="" class="title-text">행복배틀</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">3
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이로운 사기 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/122506</id>
-        <link href="https://m.kinolights.com/title/122506"/>
-        <updated>2023-07-19T02:55:09.626Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/122506"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/ae3fae58-1a79-4ce8-81ea-d1508d08d68d.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/ae3fae58-1a79-4ce8-81ea-d1508d08d68d.webp" alt="이로운 사기" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number15"></i></span><span data-v-63110f45="" class="title-text">이로운 사기</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">4
+        <title type="html"><![CDATA[스즈메의 문단속 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/101661</id>
+        <link href="https://m.kinolights.com/title/101661"/>
+        <updated>2023-06-30T07:18:10.633Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/101661"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/4ad3fead-370a-4706-88be-a867f643e4c2.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/4ad3fead-370a-4706-88be-a867f643e4c2.webp" alt="스즈메의 문단속" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number12"></i></span><span data-v-63110f45="" class="title-text">스즈메의 문단속</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">2
               </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킬링 로맨스 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/121396</id>
-        <link href="https://m.kinolights.com/title/121396"/>
-        <updated>2023-07-20T02:36:17.411Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/121396"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/969706d4-bf0c-4460-9875-39ebea8b3e5c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/969706d4-bf0c-4460-9875-39ebea8b3e5c.webp" alt="킬링 로맨스" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number16"></i></span><span data-v-63110f45="" class="title-text">킬링 로맨스</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="new"><span data-v-63110f45="">NEW</span></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이번 생도 잘 부탁해 (키노라이츠 ─ 통합차트)]]></title>
         <id>https://m.kinolights.com/title/122937</id>
         <link href="https://m.kinolights.com/title/122937"/>
         <updated>2023-07-18T03:26:30.117Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/122937"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/1a0b94c2-a38f-4e89-9446-ea16abe2940c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/1a0b94c2-a38f-4e89-9446-ea16abe2940c.webp" alt="이번 생도 잘 부탁해" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number17"></i></span><span data-v-63110f45="" class="title-text">이번 생도 잘 부탁해</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">2
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/122937"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/1a0b94c2-a38f-4e89-9446-ea16abe2940c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/1a0b94c2-a38f-4e89-9446-ea16abe2940c.webp" alt="이번 생도 잘 부탁해" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-63110f45="" class="title-text">이번 생도 잘 부탁해</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">4
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미션 임파서블 : 고스트 프로토콜 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/25918</id>
-        <link href="https://m.kinolights.com/title/25918"/>
-        <updated>2023-07-20T02:36:17.419Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/25918"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/c37246f5-2f16-4aed-a26e-336509581ae3.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/c37246f5-2f16-4aed-a26e-336509581ae3.webp" alt="미션 임파서블 : 고스트 프로토콜" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number18"></i></span><span data-v-63110f45="" class="title-text">미션 임파서블 : 고스트 프로토콜</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">12
+        <title type="html"><![CDATA[귀공자 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/102303</id>
+        <link href="https://m.kinolights.com/title/102303"/>
+        <updated>2023-07-19T02:55:09.609Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/102303"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/0273377d-0199-4130-8e7a-2c2d8bdf8e9b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/0273377d-0199-4130-8e7a-2c2d8bdf8e9b.webp" alt="귀공자" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-63110f45="" class="title-text">귀공자</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">5
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[범죄도시 2 (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/102251</id>
-        <link href="https://m.kinolights.com/title/102251"/>
-        <updated>2023-07-20T02:36:17.421Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/102251"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/540472cc-d333-4ed7-b7e7-cc2637eeee4e.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/540472cc-d333-4ed7-b7e7-cc2637eeee4e.webp" alt="범죄도시 2" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number19"></i></span><span data-v-63110f45="" class="title-text">범죄도시 2</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">4
+        <title type="html"><![CDATA[주술회전 「회옥・옥절 / 시부야 사변」 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/103430</id>
+        <link href="https://m.kinolights.com/title/103430"/>
+        <updated>2023-07-21T02:37:57.244Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/103430"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/59c4f84f-69ea-41e5-857b-22991282318a.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/59c4f84f-69ea-41e5-857b-22991282318a.webp" alt="주술회전 「회옥・옥절 / 시부야 사변」" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number15"></i></span><span data-v-63110f45="" class="title-text">주술회전 「회옥・옥절 / 시부야 사변」</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">26
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좀100 ~좀비가 되기 전에 하고 싶은 100가지~ (키노라이츠 ─ 통합차트)]]></title>
-        <id>https://m.kinolights.com/title/124294</id>
-        <link href="https://m.kinolights.com/title/124294"/>
-        <updated>2023-07-18T03:26:30.117Z</updated>
-        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/124294"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/882c2f4e-e2f4-46b0-ae99-1772b0630a3b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/882c2f4e-e2f4-46b0-ae99-1772b0630a3b.webp" alt="좀100 ~좀비가 되기 전에 하고 싶은 100가지~ " loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number20"></i></span><span data-v-63110f45="" class="title-text">좀100 ~좀비가 되기 전에 하고 싶은 100가지~ </span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">12
+        <title type="html"><![CDATA[엘리멘탈 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/112917</id>
+        <link href="https://m.kinolights.com/title/112917"/>
+        <updated>2023-07-21T02:37:57.248Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/112917"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/fb8bc10c-aba4-4299-8a55-c968b3e8b3b8.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/fb8bc10c-aba4-4299-8a55-c968b3e8b3b8.webp" alt="엘리멘탈" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number16"></i></span><span data-v-63110f45="" class="title-text">엘리멘탈</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">6
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 신부 군 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/122251</id>
+        <link href="https://m.kinolights.com/title/122251"/>
+        <updated>2023-07-21T02:37:57.252Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/122251"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/a282035d-418f-456c-88f4-e3afb31868ab.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/a282035d-418f-456c-88f4-e3afb31868ab.webp" alt="나의 신부 군" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number17"></i></span><span data-v-63110f45="" class="title-text">나의 신부 군</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">8
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 SOLO <나는 솔로> (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/97833</id>
+        <link href="https://m.kinolights.com/title/97833"/>
+        <updated>2023-07-20T02:36:17.399Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/97833"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/81ae5a42-e67f-42ad-9a8a-4e673b547c20.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/81ae5a42-e67f-42ad-9a8a-4e673b547c20.webp" alt="나는 SOLO <나는 솔로>" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number18"></i></span><span data-v-63110f45="" class="title-text">나는 SOLO &lt;나는 솔로&gt;</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-63110f45="" class="rank-change-num down">7
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명탐정 코난: 하이바라 아이 이야기 ~흑철의 미스터리 트레인 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/123614</id>
+        <link href="https://m.kinolights.com/title/123614"/>
+        <updated>2023-07-21T02:37:57.262Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/123614"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/1732c606-a033-48ac-90d5-d62013c7f0d3.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/1732c606-a033-48ac-90d5-d62013c7f0d3.webp" alt="명탐정 코난: 하이바라 아이 이야기 ~흑철의 미스터리 트레인" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number19"></i></span><span data-v-63110f45="" class="title-text">명탐정 코난: 하이바라 아이 이야기 ~흑철의 미스터리 트레인</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">15
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[버드 박스: 바르셀로나 (키노라이츠 ─ 통합차트)]]></title>
+        <id>https://m.kinolights.com/title/122863</id>
+        <link href="https://m.kinolights.com/title/122863"/>
+        <updated>2023-07-21T02:37:57.266Z</updated>
+        <content type="html"><![CDATA[<a data-v-63110f45="" href="/title/122863"><span data-v-63110f45="" class="left-content-wrap"><span data-v-63110f45="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-63110f45=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/010fe36c-9f78-4eb8-ad17-aa1f564dab14.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/010fe36c-9f78-4eb8-ad17-aa1f564dab14.webp" alt="버드 박스: 바르셀로나" loading="lazy" decoding="async" class=""></picture></span><span data-v-63110f45="" class="rank-number"><i data-v-63110f45="" class="kino-icon kino-icon--rank-number20"></i></span><span data-v-63110f45="" class="title-text">버드 박스: 바르셀로나</span></span><span data-v-63110f45="" class="right-content-wrap"><span data-v-63110f45="" class="polygon-wrap"><i data-v-63110f45="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-63110f45="" class="rank-change-num up">1
               </span></span></a>]]></content>
     </entry>
 </feed>
