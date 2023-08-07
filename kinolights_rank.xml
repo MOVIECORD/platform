@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-08-06T23:16:59.843Z</updated>
+    <updated>2023-08-07T01:25:45.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[무빙]]></title>
-        <id>https://youtu.be/9V2tVurYTxc</id>
-        <link href="https://youtu.be/9V2tVurYTxc"/>
-        <updated>2023-07-31T01:27:20.669Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="https://youtu.be/9V2tVurYTxc" target="_blank" rel="noopener"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="featured-logo-ico"><i data-v-09e5595c="" class="kino-icon kino-icon--disney" style="width: 20px; height: 20px;"></i></span><span data-v-09e5595c="" class="title-text"><span data-v-09e5595c="">무빙</span></span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="featured-ico"><i data-v-09e5595c="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[더 문]]></title>
+        <id>https://linktr.ee/cjenmmovie</id>
+        <link href="https://linktr.ee/cjenmmovie"/>
+        <updated>2023-08-07T01:25:44.426Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="https://linktr.ee/cjenmmovie" target="_blank" rel="noopener"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="featured-logo-ico"><i data-v-09e5595c="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-09e5595c="" class="title-text"><span data-v-09e5595c="">더 문</span></span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="featured-ico"><i data-v-09e5595c="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소방서 옆 경찰서 그리고 국과수]]></title>
