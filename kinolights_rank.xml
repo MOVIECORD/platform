@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-08-15T02:21:34.622Z</updated>
+    <updated>2023-08-15T03:18:04.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
@@ -13,27 +13,11 @@
         <content type="html"><![CDATA[<a data-v-09e5595c="" href="http://cgv.kr/s3A9Swg8" target="_blank" rel="noopener"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="featured-logo-ico"><i data-v-09e5595c="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-09e5595c="" class="title-text"><span data-v-09e5595c="">보호자</span></span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="featured-ico"><i data-v-09e5595c="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힙하게]]></title>
-        <id>https://m.kinolights.com/title/116525</id>
-        <link href="https://m.kinolights.com/title/116525"/>
-        <updated>2023-08-14T03:17:56.001Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/116525"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/8d3e984d-0609-4c01-931a-88bdb6c330a7.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/8d3e984d-0609-4c01-931a-88bdb6c330a7.webp" alt="힙하게" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-09e5595c="" class="title-text">힙하게</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">20
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[무빙]]></title>
         <id>https://m.kinolights.com/title/116880</id>
         <link href="https://m.kinolights.com/title/116880"/>
         <updated>2023-08-10T03:18:37.540Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/116880"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/19/61a83c40-4d4f-4072-8f27-2cefe2265250.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/19/61a83c40-4d4f-4072-8f27-2cefe2265250.webp" alt="무빙" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number2"></i></span><span data-v-09e5595c="" class="title-text">무빙</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">1
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘크리트 유토피아]]></title>
-        <id>https://m.kinolights.com/title/84293</id>
-        <link href="https://m.kinolights.com/title/84293"/>
-        <updated>2023-08-10T03:18:37.552Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/84293"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/13/e36edfb5-224e-41c4-8820-b5cda4e2ce52.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/13/e36edfb5-224e-41c4-8820-b5cda4e2ce52.webp" alt="콘크리트 유토피아" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number3"></i></span><span data-v-09e5595c="" class="title-text">콘크리트 유토피아</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">2
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/116880"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/19/61a83c40-4d4f-4072-8f27-2cefe2265250.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/19/61a83c40-4d4f-4072-8f27-2cefe2265250.webp" alt="무빙" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number1"></i></span><span data-v-09e5595c="" class="title-text">무빙</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">1
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -41,15 +25,15 @@
         <id>https://m.kinolights.com/title/124430</id>
         <link href="https://m.kinolights.com/title/124430"/>
         <updated>2023-08-05T03:17:44.932Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/124430"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/24/c6d5825d-3247-4a9f-8b6a-2ba170f87021.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/24/c6d5825d-3247-4a9f-8b6a-2ba170f87021.webp" alt="연인" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number4"></i></span><span data-v-09e5595c="" class="title-text">연인</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">2
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/124430"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/24/c6d5825d-3247-4a9f-8b6a-2ba170f87021.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/24/c6d5825d-3247-4a9f-8b6a-2ba170f87021.webp" alt="연인" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number2"></i></span><span data-v-09e5595c="" class="title-text">연인</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">2
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경이로운 소문2: 카운터 펀치]]></title>
-        <id>https://m.kinolights.com/title/95953</id>
-        <link href="https://m.kinolights.com/title/95953"/>
-        <updated>2023-07-30T03:18:23.329Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/95953"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/64498f63-3876-4473-a2cd-77c4a5de09b2.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/64498f63-3876-4473-a2cd-77c4a5de09b2.webp" alt="경이로운 소문2: 카운터 펀치" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number5"></i></span><span data-v-09e5595c="" class="title-text">경이로운 소문2: 카운터 펀치</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">2
+        <title type="html"><![CDATA[힙하게]]></title>
+        <id>https://m.kinolights.com/title/116525</id>
+        <link href="https://m.kinolights.com/title/116525"/>
+        <updated>2023-08-14T03:17:56.001Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/116525"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/8d3e984d-0609-4c01-931a-88bdb6c330a7.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/8d3e984d-0609-4c01-931a-88bdb6c330a7.webp" alt="힙하게" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number3"></i></span><span data-v-09e5595c="" class="title-text">힙하게</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">2
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -57,23 +41,7 @@
         <id>https://m.kinolights.com/title/106565</id>
         <link href="https://m.kinolights.com/title/106565"/>
         <updated>2023-07-29T03:17:26.769Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/106565"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/13/62cdff86-6728-4885-beee-72eda8b53ea4.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/13/62cdff86-6728-4885-beee-72eda8b53ea4.webp" alt="D.P. 시즌 2" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number6"></i></span><span data-v-09e5595c="" class="title-text">D.P. 시즌 2</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">4
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소방서 옆 경찰서 그리고 국과수]]></title>
-        <id>https://m.kinolights.com/title/119272</id>
-        <link href="https://m.kinolights.com/title/119272"/>
-        <updated>2023-08-05T03:17:44.881Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/119272"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/fba9519a-d8b7-4a36-a4e7-3d70810388a8.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/fba9519a-d8b7-4a36-a4e7-3d70810388a8.webp" alt="소방서 옆 경찰서 그리고 국과수" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number7"></i></span><span data-v-09e5595c="" class="title-text">소방서 옆 경찰서 그리고 국과수</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">4
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테넷]]></title>
-        <id>https://m.kinolights.com/title/78554</id>
-        <link href="https://m.kinolights.com/title/78554"/>
-        <updated>2023-08-12T03:17:16.871Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/78554"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/76c46436-adba-45b6-8d90-8e0d7cc0fc5c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/76c46436-adba-45b6-8d90-8e0d7cc0fc5c.webp" alt="테넷" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-09e5595c="" class="title-text">테넷</span></span><span data-v-09e5595c="" class="right-content-wrap"><!----><span data-v-09e5595c="" class="rank-change-num hyphen">-
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/106565"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/13/62cdff86-6728-4885-beee-72eda8b53ea4.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/13/62cdff86-6728-4885-beee-72eda8b53ea4.webp" alt="D.P. 시즌 2" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number4"></i></span><span data-v-09e5595c="" class="title-text">D.P. 시즌 2</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">2
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -81,47 +49,15 @@
         <id>https://m.kinolights.com/title/112917</id>
         <link href="https://m.kinolights.com/title/112917"/>
         <updated>2023-08-11T03:17:52.589Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/112917"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/fb8bc10c-aba4-4299-8a55-c968b3e8b3b8.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/fb8bc10c-aba4-4299-8a55-c968b3e8b3b8.webp" alt="엘리멘탈" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number9"></i></span><span data-v-09e5595c="" class="title-text">엘리멘탈</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">3
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/112917"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/fb8bc10c-aba4-4299-8a55-c968b3e8b3b8.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/fb8bc10c-aba4-4299-8a55-c968b3e8b3b8.webp" alt="엘리멘탈" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number5"></i></span><span data-v-09e5595c="" class="title-text">엘리멘탈</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">4
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[범죄도시 3]]></title>
-        <id>https://m.kinolights.com/title/110565</id>
-        <link href="https://m.kinolights.com/title/110565"/>
-        <updated>2023-07-09T22:19:11.846Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/110565"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/7df625a0-ae95-41ee-afdf-379aa269388c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/7df625a0-ae95-41ee-afdf-379aa269388c.webp" alt="범죄도시 3" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-09e5595c="" class="title-text">범죄도시 3</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">1
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민사형투표]]></title>
-        <id>https://m.kinolights.com/title/124485</id>
-        <link href="https://m.kinolights.com/title/124485"/>
-        <updated>2023-08-11T03:17:52.565Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/124485"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202308/08/eeb54d49-ad1e-4b18-9aa4-49bae60fd513.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202308/08/eeb54d49-ad1e-4b18-9aa4-49bae60fd513.webp" alt="국민사형투표" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number11"></i></span><span data-v-09e5595c="" class="title-text">국민사형투표</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">1
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하트 오브 스톤]]></title>
-        <id>https://m.kinolights.com/title/118252</id>
-        <link href="https://m.kinolights.com/title/118252"/>
-        <updated>2023-08-13T03:17:13.137Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/118252"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/19/616713e4-494e-412d-bb74-5692070bc955.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/19/616713e4-494e-412d-bb74-5692070bc955.webp" alt="하트 오브 스톤" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number12"></i></span><span data-v-09e5595c="" class="title-text">하트 오브 스톤</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">8
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악귀]]></title>
-        <id>https://m.kinolights.com/title/119271</id>
-        <link href="https://m.kinolights.com/title/119271"/>
-        <updated>2023-07-09T22:19:11.845Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/119271"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/6a006d4a-033e-4aa9-8bca-b97b8a8c3fb9.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/6a006d4a-033e-4aa9-8bca-b97b8a8c3fb9.webp" alt="악귀" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-09e5595c="" class="title-text">악귀</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">3
-              </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좀비버스]]></title>
-        <id>https://m.kinolights.com/title/118100</id>
-        <link href="https://m.kinolights.com/title/118100"/>
-        <updated>2023-08-09T03:18:22.838Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/118100"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/25/b480578a-c504-4a5b-8c9c-ea0213cf3567.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/25/b480578a-c504-4a5b-8c9c-ea0213cf3567.webp" alt="좀비버스" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-09e5595c="" class="title-text">좀비버스</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">1
+        <title type="html"><![CDATA[테넷]]></title>
+        <id>https://m.kinolights.com/title/78554</id>
+        <link href="https://m.kinolights.com/title/78554"/>
+        <updated>2023-08-12T03:17:16.871Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/78554"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/76c46436-adba-45b6-8d90-8e0d7cc0fc5c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/76c46436-adba-45b6-8d90-8e0d7cc0fc5c.webp" alt="테넷" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number6"></i></span><span data-v-09e5595c="" class="title-text">테넷</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">2
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -129,7 +65,39 @@
         <id>https://m.kinolights.com/title/124705</id>
         <link href="https://m.kinolights.com/title/124705"/>
         <updated>2023-07-18T03:26:30.078Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/124705"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/7238f915-2b33-47a0-a0fa-bcc0d053c00b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/7238f915-2b33-47a0-a0fa-bcc0d053c00b.webp" alt="남남" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number15"></i></span><span data-v-09e5595c="" class="title-text">남남</span></span><span data-v-09e5595c="" class="right-content-wrap"><!----><span data-v-09e5595c="" class="rank-change-num hyphen">-
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/124705"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/7238f915-2b33-47a0-a0fa-bcc0d053c00b.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/7238f915-2b33-47a0-a0fa-bcc0d053c00b.webp" alt="남남" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number7"></i></span><span data-v-09e5595c="" class="title-text">남남</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">8
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경이로운 소문2: 카운터 펀치]]></title>
+        <id>https://m.kinolights.com/title/95953</id>
+        <link href="https://m.kinolights.com/title/95953"/>
+        <updated>2023-07-30T03:18:23.329Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/95953"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/64498f63-3876-4473-a2cd-77c4a5de09b2.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/64498f63-3876-4473-a2cd-77c4a5de09b2.webp" alt="경이로운 소문2: 카운터 펀치" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number8"></i></span><span data-v-09e5595c="" class="title-text">경이로운 소문2: 카운터 펀치</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">3
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소방서 옆 경찰서 그리고 국과수]]></title>
+        <id>https://m.kinolights.com/title/119272</id>
+        <link href="https://m.kinolights.com/title/119272"/>
+        <updated>2023-08-05T03:17:44.881Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/119272"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/fba9519a-d8b7-4a36-a4e7-3d70810388a8.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/fba9519a-d8b7-4a36-a4e7-3d70810388a8.webp" alt="소방서 옆 경찰서 그리고 국과수" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number9"></i></span><span data-v-09e5595c="" class="title-text">소방서 옆 경찰서 그리고 국과수</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">2
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하트 오브 스톤]]></title>
+        <id>https://m.kinolights.com/title/118252</id>
+        <link href="https://m.kinolights.com/title/118252"/>
+        <updated>2023-08-13T03:17:13.137Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/118252"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/19/616713e4-494e-412d-bb74-5692070bc955.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/19/616713e4-494e-412d-bb74-5692070bc955.webp" alt="하트 오브 스톤" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number10"></i></span><span data-v-09e5595c="" class="title-text">하트 오브 스톤</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">2
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민사형투표]]></title>
+        <id>https://m.kinolights.com/title/124485</id>
+        <link href="https://m.kinolights.com/title/124485"/>
+        <updated>2023-08-11T03:17:52.565Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/124485"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202308/08/eeb54d49-ad1e-4b18-9aa4-49bae60fd513.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202308/08/eeb54d49-ad1e-4b18-9aa4-49bae60fd513.webp" alt="국민사형투표" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number11"></i></span><span data-v-09e5595c="" class="title-text">국민사형투표</span></span><span data-v-09e5595c="" class="right-content-wrap"><!----><span data-v-09e5595c="" class="rank-change-num hyphen">-
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -137,15 +105,47 @@
         <id>https://m.kinolights.com/title/123031</id>
         <link href="https://m.kinolights.com/title/123031"/>
         <updated>2023-08-02T02:34:55.693Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/123031"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/28/389a286d-3b0d-4808-a042-1b8b21e7cbcb.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/28/389a286d-3b0d-4808-a042-1b8b21e7cbcb.webp" alt="소용없어 거짓말" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number16"></i></span><span data-v-09e5595c="" class="title-text">소용없어 거짓말</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">2
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/123031"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/28/389a286d-3b0d-4808-a042-1b8b21e7cbcb.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/28/389a286d-3b0d-4808-a042-1b8b21e7cbcb.webp" alt="소용없어 거짓말" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number12"></i></span><span data-v-09e5595c="" class="title-text">소용없어 거짓말</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">4
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인터스텔라]]></title>
-        <id>https://m.kinolights.com/title/10524</id>
-        <link href="https://m.kinolights.com/title/10524"/>
-        <updated>2023-08-12T03:17:16.889Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/10524"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/f2a89328-e919-49d3-a845-93d32a1c424a.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/f2a89328-e919-49d3-a845-93d32a1c424a.webp" alt="인터스텔라" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number17"></i></span><span data-v-09e5595c="" class="title-text">인터스텔라</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">6
+        <title type="html"><![CDATA[범죄도시 3]]></title>
+        <id>https://m.kinolights.com/title/110565</id>
+        <link href="https://m.kinolights.com/title/110565"/>
+        <updated>2023-07-09T22:19:11.846Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/110565"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/7df625a0-ae95-41ee-afdf-379aa269388c.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/7df625a0-ae95-41ee-afdf-379aa269388c.webp" alt="범죄도시 3" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number13"></i></span><span data-v-09e5595c="" class="title-text">범죄도시 3</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">3
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오펜하이머]]></title>
+        <id>https://m.kinolights.com/title/110524</id>
+        <link href="https://m.kinolights.com/title/110524"/>
+        <updated>2023-08-15T03:18:03.888Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/110524"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/27/2a7fee51-8e4b-4e4f-b1e7-b7f492d79dfb.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/27/2a7fee51-8e4b-4e4f-b1e7-b7f492d79dfb.webp" alt="오펜하이머" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number14"></i></span><span data-v-09e5595c="" class="title-text">오펜하이머</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--uppolygon"></i></span><span data-v-09e5595c="" class="rank-change-num up">27
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악귀]]></title>
+        <id>https://m.kinolights.com/title/119271</id>
+        <link href="https://m.kinolights.com/title/119271"/>
+        <updated>2023-07-09T22:19:11.845Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/119271"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/6a006d4a-033e-4aa9-8bca-b97b8a8c3fb9.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/6a006d4a-033e-4aa9-8bca-b97b8a8c3fb9.webp" alt="악귀" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number15"></i></span><span data-v-09e5595c="" class="title-text">악귀</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">2
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘크리트 유토피아]]></title>
+        <id>https://m.kinolights.com/title/84293</id>
+        <link href="https://m.kinolights.com/title/84293"/>
+        <updated>2023-08-10T03:18:37.552Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/84293"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/13/e36edfb5-224e-41c4-8820-b5cda4e2ce52.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/13/e36edfb5-224e-41c4-8820-b5cda4e2ce52.webp" alt="콘크리트 유토피아" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number16"></i></span><span data-v-09e5595c="" class="title-text">콘크리트 유토피아</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">13
+              </span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좀비버스]]></title>
+        <id>https://m.kinolights.com/title/118100</id>
+        <link href="https://m.kinolights.com/title/118100"/>
+        <updated>2023-08-09T03:18:22.838Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/118100"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/25/b480578a-c504-4a5b-8c9c-ea0213cf3567.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/25/b480578a-c504-4a5b-8c9c-ea0213cf3567.webp" alt="좀비버스" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number17"></i></span><span data-v-09e5595c="" class="title-text">좀비버스</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">3
               </span></span></a>]]></content>
     </entry>
     <entry>
@@ -153,15 +153,16 @@
         <id>https://m.kinolights.com/title/101661</id>
         <link href="https://m.kinolights.com/title/101661"/>
         <updated>2023-07-09T22:19:11.871Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/101661"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/4ad3fead-370a-4706-88be-a867f643e4c2.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/4ad3fead-370a-4706-88be-a867f643e4c2.webp" alt="스즈메의 문단속" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number18"></i></span><span data-v-09e5595c="" class="title-text">스즈메의 문단속</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">1
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/101661"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/4ad3fead-370a-4706-88be-a867f643e4c2.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/4ad3fead-370a-4706-88be-a867f643e4c2.webp" alt="스즈메의 문단속" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number18"></i></span><span data-v-09e5595c="" class="title-text">스즈메의 문단속</span></span><span data-v-09e5595c="" class="right-content-wrap"><!----><span data-v-09e5595c="" class="rank-change-num hyphen">-
               </span></span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돌싱글즈 4]]></title>
-        <id>https://m.kinolights.com/title/124111</id>
-        <link href="https://m.kinolights.com/title/124111"/>
-        <updated>2023-08-14T03:17:56.060Z</updated>
-        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/124111"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/24/eb0c66bc-b1dc-4d81-9ddb-408bd612d4a2.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/24/eb0c66bc-b1dc-4d81-9ddb-408bd612d4a2.webp" alt="돌싱글즈 4" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number19"></i></span><span data-v-09e5595c="" class="title-text">돌싱글즈 4</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="new"><span data-v-09e5595c="">NEW</span></span></span></a>]]></content>
+        <title type="html"><![CDATA[인터스텔라]]></title>
+        <id>https://m.kinolights.com/title/10524</id>
+        <link href="https://m.kinolights.com/title/10524"/>
+        <updated>2023-08-12T03:17:16.889Z</updated>
+        <content type="html"><![CDATA[<a data-v-09e5595c="" href="/title/10524"><span data-v-09e5595c="" class="left-content-wrap"><span data-v-09e5595c="" class="poster-img"><picture data-v-7874c524="" data-v-3090f2a6="" data-v-09e5595c=""><source data-v-7874c524="" srcset="https://file.kinolights.com/s/content_poster/202307/12/f2a89328-e919-49d3-a845-93d32a1c424a.webp" type="image/webp"><img data-v-7874c524="" src="https://file.kinolights.com/original/content_poster/202307/12/f2a89328-e919-49d3-a845-93d32a1c424a.webp" alt="인터스텔라" loading="lazy" decoding="async" class=""></picture></span><span data-v-09e5595c="" class="rank-number"><i data-v-09e5595c="" class="kino-icon kino-icon--rank-number19"></i></span><span data-v-09e5595c="" class="title-text">인터스텔라</span></span><span data-v-09e5595c="" class="right-content-wrap"><span data-v-09e5595c="" class="polygon-wrap"><i data-v-09e5595c="" class="kino-icon kino-icon--downpolygon"></i></span><span data-v-09e5595c="" class="rank-change-num down">2
+              </span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인셉션]]></title>
