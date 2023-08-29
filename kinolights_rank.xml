@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.kinolights.com/ranking/kino</id>
     <title>키노라이츠 ─ 통합차트</title>
-    <updated>2023-08-29T14:16:29.928Z</updated>
+    <updated>2023-08-29T15:18:15.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://nujhrcqkiwag1408085.cdn.ntruss.com/static/common/icon/favicon-33x33.png</icon>
     <entry>
-        <title type="html"><![CDATA[아소카]]></title>
-        <id>https://www.disneyplus.com/series/ahsoka/pdpjs2TO4zJ4</id>
-        <link href="https://www.disneyplus.com/series/ahsoka/pdpjs2TO4zJ4"/>
-        <updated>2023-08-29T03:18:26.800Z</updated>
-        <content type="html"><![CDATA[<a data-v-97c2591c="" href="https://www.disneyplus.com/series/ahsoka/pdpjs2TO4zJ4" target="_blank" rel="noopener"><span data-v-97c2591c="" class="left-content-wrap"><span data-v-97c2591c="" class="featured-logo-ico"><i data-v-97c2591c="" class="kino-icon kino-icon--disney" style="width: 20px; height: 20px;"></i></span><span data-v-97c2591c="" class="title-text">아소카</span></span><span data-v-97c2591c="" class="right-content-wrap"><span data-v-97c2591c="" class="featured-ico"><i data-v-97c2591c="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
+        <title type="html"><![CDATA[잠]]></title>
+        <id>https://linktr.ee/lotteent.movie</id>
+        <link href="https://linktr.ee/lotteent.movie"/>
+        <updated>2023-08-29T15:18:14.296Z</updated>
+        <content type="html"><![CDATA[<a data-v-97c2591c="" href="https://linktr.ee/lotteent.movie" target="_blank" rel="noopener"><span data-v-97c2591c="" class="left-content-wrap"><span data-v-97c2591c="" class="featured-logo-ico"><i data-v-97c2591c="" class="kino-icon kino-icon--theater" style="width: 20px; height: 20px;"></i></span><span data-v-97c2591c="" class="title-text">잠</span></span><span data-v-97c2591c="" class="right-content-wrap"><span data-v-97c2591c="" class="featured-ico"><i data-v-97c2591c="" class="kino-icon kino-icon--advertisement"></i></span></span></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무빙]]></title>
